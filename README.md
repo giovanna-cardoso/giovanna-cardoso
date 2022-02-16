@@ -1,6 +1,6 @@
 ## Olá, eu sou a Giovanna Cardoso!
 
-- 🎓 Sou formada em Técnico de Informatica pela ETEC Dra Ruth Cardoso e em Analise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul.I
+- 🎓 Sou formada em Técnico de Informatica pela ETEC Dra Ruth Cardoso e em Analise e Desenvolvimento de Sistemas pela Universidade Cruzeiro do Sul.
 - 👀 Estou interessada em entrar na área de desenvolvimento e adquirir experiência.
 - 🌱 Estudando Front-end.
 
